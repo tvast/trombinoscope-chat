@@ -16,6 +16,13 @@ img {
    filter: gray; /* IE 6-9 */
 }
 
+img:hover {
+   -webkit-filter: none;
+   -moz-filter: none;
+   -ms-filter: none;
+   filter: none;
+}
+
 /*.col{
 	margin :10px;
 }*/
