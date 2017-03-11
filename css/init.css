@@ -23,6 +23,14 @@ img:hover {
    filter: none;
 }
 
+h1 {
+	font-family: 'Lobster', cursive;
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
 /*.col{
 	margin :10px;
 }*/
