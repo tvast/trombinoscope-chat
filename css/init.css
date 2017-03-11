@@ -3,7 +3,14 @@ body {
 	background-color: tomato;
 	color: white;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
+	 display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
+
+ main {
+    flex: 1 0 auto;
+  }
 
 img {
 	width: 150px;
@@ -29,6 +36,10 @@ h1 {
 
 p {
 	font-family: 'Ubuntu', sans-serif;
+}
+
+.page-footer {
+	background-color: tomato;
 }
 
 /*.col{
