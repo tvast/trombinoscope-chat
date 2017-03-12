@@ -1,0 +1,22 @@
+var domAnimator = new DomAnimator();
+    domAnimator.addFrame('Hello');
+    domAnimator.addFrame('Il faut bien regarder');
+    domAnimator.addFrame('le code source');
+    domAnimator.addFrame('Tu découvriras');
+    domAnimator.addFrame('Que rien');
+    domAnimator.addFrame('est affiché par hasard');
+    domAnimator.addFrame('Bonjour au professeur qui');
+    domAnimator.addFrame('Fait bien son travail');
+    domAnimator.addFrame(':)');
+    domAnimator.addFrame('Site réalisé grâce');
+    domAnimator.addFrame('materialise.css, domanimator et jquerry');
+    domAnimator.addFrame('o_o');
+    domAnimator.addFrame('-_o');
+    domAnimator.addFrame('o_o');
+    domAnimator.addFrame('-_o');
+    domAnimator.addFrame('o_o');
+    domAnimator.addFrame('-_o');
+    domAnimator.addFrame('o_o');
+    domAnimator.addFrame('-_o');
+    domAnimator.animate();
+    domAnimator.animate(4000); //ms
